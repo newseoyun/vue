@@ -35,3 +35,4 @@ out/
 
 ### more ###
 /target/
+*/node_modules/
